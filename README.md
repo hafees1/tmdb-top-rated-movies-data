@@ -40,7 +40,3 @@ The notebook generates:
 ```
 tmdb_top_rated_movies.csv
 ```
-
-## Author
-
-Mohammad Hafees
